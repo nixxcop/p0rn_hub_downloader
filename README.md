@@ -10,7 +10,7 @@
 </p>
 
 
-# Porn video DownLoader
+# P00rnhub video DownLoader
 
 This is a simple .ipynb for downloading videos from Pornhub.
 
