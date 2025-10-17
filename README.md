@@ -29,9 +29,9 @@ you need an google account
     https://colab.research.google.com/github/nixxcop/p0rn_hub_downloader/blob/main/main.ipynb
     ```
 2. and mount drive -
-<img src="https://deep-image.ai/blog/content/images/2022/08/magic-g1db898374_1920.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/nixxcop/assets/refs/heads/main/Screenshot%202025-10-18%20002553.png" width="400"/>
 3. run main code-
-<img src="https://deep-image.ai/blog/content/images/2022/08/magic-g1db898374_1920.jpg" width="400"/>
+<img src="https://raw.githubusercontent.com/nixxcop/assets/refs/heads/main/Screenshot%202025-10-18%20002710.png" width="400"/>
 4. after successfully download, go in google drive -> drive -> pornhub_downloads -> u will found video (download in local)
 
 5. downloaded succesfully ...!!!!
